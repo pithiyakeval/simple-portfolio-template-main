@@ -211,7 +211,19 @@ h5 {
   padding-top: 18rem;
   background-color: var(--primary-bg-color);
 }
+.image-container{
+  width: 500px;
+  height: 300px
+  right;
+  
+  
+}
 
+.small-image{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
 .hero-row {
   display: flex;
   flex-wrap: wrap;
@@ -255,6 +267,7 @@ h5 {
   height: auto;
   vertical-align: bottom;
 }
+
 
 .about-social-list {
   display: flex;
